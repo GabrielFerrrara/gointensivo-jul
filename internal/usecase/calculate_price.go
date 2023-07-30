@@ -1,6 +1,6 @@
 package usecase
 
-import "github.com/devfullcycle/go-intensivo-jul/internal/entity"
+import "github.com/gabrielferrrara/gointensivo-jul/internal/entity"
 
 type OrderInput struct {
 	ID    string  `json:"id"`
